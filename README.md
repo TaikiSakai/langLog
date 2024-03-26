@@ -91,5 +91,7 @@ http://linguardia.com
 - langLog
 - linGuardia(リンガァルディア)
 
+## 画面遷移
+https://www.figma.com/file/AkuP1xU2fpiiZX6FebbsEo/langLog?type=design&node-id=0%3A1&mode=design&t=cHvINarqMNxJkVAC-1
 
 
